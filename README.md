@@ -19,6 +19,6 @@ Exemplo
 
 ## 📸 Evidências
 <p>
-![Execução do sistema](./evidência-sucesso.png)
-![Execução do sistema](./evidência-erro.png)
+![Execução do sistema](./evidencia-sucesso.png)
+![Execução do sistema](./evidencia-erro.png)
 </p>
