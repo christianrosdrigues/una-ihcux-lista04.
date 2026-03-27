@@ -17,6 +17,7 @@ Exemplo
 - Entrada válida: sucesso
 - Entrada inválida: mensagem amigável
 
-## 📸 Evidência
+## 📸 Evidências
 ![Execução do sistema](./Impressão 01 (Caminho Feliz.jpeg))
+
 ![Execução do sistema](./Imprimir 02 (Caminho do Erro.jpeg))
