@@ -18,5 +18,7 @@ Exemplo
 - Entrada inválida: mensagem amigável
 
 ## 📸 Evidências
+<p>
 ![Execução do sistema](./evidência-sucesso.png)
 ![Execução do sistema](./evidência-erro.png)
+</p>
