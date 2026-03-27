@@ -1,6 +1,4 @@
-# Sistema Robusto com Try-Catch
-
-## O que é try-catch?
+O que é try-catch?
 
 O try-catch é uma estrutura utilizada em programação para tratar erros (exceções) que podem ocorrer durante a execução do programa.
 
@@ -8,13 +6,13 @@ O try-catch é uma estrutura utilizada em programação para tratar erros (exce�
 - O bloco `catch` captura o erro e permite mostrar uma mensagem amigável ao usuário.
 - O `finally` sempre é executado, independentemente de erro ou não.
 
-## Relação com UX (Experiência do Usuário)
+Relação com UX (Experiência do Usuário)
 
 Este programa aplica a heurística de Nielsen de **Prevenção de Erros**, evitando que o sistema quebre quando o usuário digita dados inválidos.
 
 Em vez de mostrar um erro técnico, o sistema informa claramente o problema e orienta o usuário a corrigir.
 
-## Exemplo
+Exemplo
 
 - Entrada válida: sucesso
 - Entrada inválida: mensagem amigável
